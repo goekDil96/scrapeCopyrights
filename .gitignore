@@ -2,3 +2,5 @@ scrapeData/data
 scrapeData/data_github
 scrapeData/data_test
 venv
+api/__pycache__
+config/.env
